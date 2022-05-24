@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @klaus
-- 👀 I’m interested in game development and front-end web development.
+- 👋 Hi, I’m Klaus
+- 🎮 I’m interested in game development, front-end web development, 3-D modeling and pixel art.
 - 🌱 I’m currently learning front-end development.
-- 💞️ I’m looking to collaborate on developing a game and starting an indie game studio.
+- 👀 I’m looking to collaborate on developing a game and starting an indie game studio.
 - 📫 How to reach me : klausxy117@gmail.com
 
 <!---
