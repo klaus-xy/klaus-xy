@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Klaus</h1>
 <h3 align="center">A frontend developer, game developer and ui/ux designer.</h3>
+<img width= "400" src= "![image](https://github.com/klaus-xy/klaus-xy/assets/63453345/67a27ee0-162f-435a-b21a-64fe4783d9fb)"/>
 
 <p align="left"> <a href="https://twitter.com/xklaus117x" target="blank"><img src="https://img.shields.io/twitter/follow/xklaus117x?logo=twitter&style=for-the-badge" alt="xklaus117x" /></a> </p>
 
