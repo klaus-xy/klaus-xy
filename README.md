@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/xklaus117x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xklaus117x" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ayobami-oyesiku-18a210238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayobami-oyesiku-18a210238/" height="30" width="40" /></a>
-<a href="https://www.dribbble.com/klaus_117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble.com/klaus_117" height="30" width="40" /></a>
+<a href="https://dribbble.com/klaus_117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble.com/klaus_117" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/ayobamioyesiku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ayobamioyesiku" height="30" width="40" /></a>
 <a href="www.youtube.com/c/klaus117gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="klaus117gaming" height="30" width="40" /></a>
 </p>
