@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Klaus</h1>
-<h3 align="center">A Web Developer (Web 2 & Web 3), Game Developer and UI/UX Designer.</h3>
+<h3 align="center">A Web Developer, Blockchain Developer Game Developer and UI/UX Designer.</h3>
 <img align= "right"  src= "https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"/>
 
 <p align="left"> <a href="https://twitter.com/xklaus117x" target="blank"><img src="https://img.shields.io/twitter/follow/xklaus117x?logo=twitter&style=for-the-badge" alt="xklaus117x" /></a> </p>
