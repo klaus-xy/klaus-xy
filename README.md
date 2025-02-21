@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [my personal portfolio](https://klaus-portfolio-v1.vercel.app/)
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently building a **Game Engine**
 
 - 👨‍💻 All of my projects are available at [https://ayo1.netlify.app/](https://ayo1.netlify.app/)
 
-- 💬 Ask me about **react, next.js, framer motion**
+- 💬 Ask me about **game development technologies, web development, blockchain technologies**
 
 - 📫 How to reach me **klausxy117@gmail.com**
 
