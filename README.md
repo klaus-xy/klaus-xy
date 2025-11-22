@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Klaus</h1>
-<h3 align="center">Game Developer | Web Developer | UI/UX Designer | Blockchain Enthst.</h3>
+<h3 align="center">Game Developer | Web Developer | UI/UX Designer | Blockchain Developer.</h3>
 <img align= "right"  src= "https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klaus-xy&label=Profile%20views&color=0e75b6&style=flat" alt="klaus-xy" /> </p>
