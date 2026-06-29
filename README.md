@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [PROJKT OVR//DRV 🏎️](https://x.com/0xKlaus117/status/1955193118891860129)
 
-- 👨‍💻 All of my projects are available at [https://klaus-portfolio-v1.vercel.app/](https://klaus-portfolio-v1.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://klaus-portfolio-v1.vercel.app/](https://klaus117-v1.vercel.app/)
 
 - 📝 I regularly write [DevLogs] on [https://x.com/0xKlaus117](https://x.com/0xKlaus117)
 
